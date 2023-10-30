@@ -1,0 +1,35 @@
+
+
+<?php //Recepción de datos
+$nombre=$_POST['nombre'];
+$correo=$_POST['correo'];
+$comentario=$_POST['comentario'];
+$solucion=$_POST['solucion'];
+$idioma=$_POST['idioma'];
+//Fin de recepción de datos
+//Acción de envío
+$receptor='INTRODUCE TU EMAIL';
+$mensaje='
+Mensaje de:
+'.$nombre.'
+Correo:
+'.$correo.'
+Comentario:
+'.$comentario.'
+Solución:
+'.$solucion.'
+Idioma:
+'.$idioma.'
+';
+$desde='From:'.$correo.'INTRODUCE TU EMAIL';
+ini_set(sendmail_from, 'INTRODUCE TU EMAIL');
+mail($receptor,$comentario,$mensaje,$desde);
+echo'Mensaje enviado con éxito, muchas gracias';
+?>
+
+
+
+
+
+
+

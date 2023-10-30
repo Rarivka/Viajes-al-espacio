@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>index</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+.titulo {
+	font-family: Times New Roman, Times, serif;
+	font-size: 24px;
+}
+.empresasqueofrecenturismoespacial {
+	font-family: Arial Black, Gadget, sans-serif;
+}
+body,td,th {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 24px;
+	color: #93C;
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div align="center" class="titulo">
+  <p>3 Empresas que ofrecen turismo espacial</p>
+  <p>&nbsp; </p>
+</div>
+<p>Hace no tantos años no hubiéramos imaginado vivir en la  época en la que los viajes espaciales pudieran ser una realidad.<br />
+  Desde el año 2001 se ha venido trabajando es una  posibilidad que únicamente podía darse en nuestra imaginación eso sí, como  podréis imaginar por ahora no está al alcance del ciudadano medio y su público no  ha anunciado el precio oficial de los billetes.<br />
+Es cuestión de tiempo que los precios bajen y lleguen a  la población común aunque tengo mis dudas en que al inicio les lluevan los  clientes por el normal miedo a una experiencia así pues como todo lo novedoso y  diferente siempre crea reticencias</p>
+<p><img src="../OIP viaje espacio.jpg" width="398" height="225" alt="viaje espacio index" /></p>
+<p><a href="../spacex.html"><img src="../OIP flecha 2.jpg" width="474" height="474" alt="flecha1" /></a><img src="../Turismo-Espacial-SAJ.jpg" width="1600" height="900" alt="turismo espacial2" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>
